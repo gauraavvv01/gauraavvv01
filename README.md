@@ -55,7 +55,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/★%20Problem%20Solved-500+-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/🔥%20Badges%20Earned-10+-gold?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🔥%20Badges%20Earned-5+-gold?style=for-the-badge">
   <img src="https://img.shields.io/badge/🏆%20Stars%20Earned-20+-yellow?style=for-the-badge">
 </p>
 
